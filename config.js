@@ -18,7 +18,7 @@
 
 //┃
 
-//┃THANKS FOR CHOOSING DarkNero
+//┃THANKS FOR CHOOSING SL SACHIYA MD V1
 
 //┃THANKS TO Drak Niro & Thinura & kumuthu
 
@@ -62,9 +62,9 @@ global.alivepic = `https://i.imgur.com/XHhlqtK.jpeg`//you logo key
 
 global.ownername = " SACHIYA " //ur owner name
 
-global.owner = ['94767233346','']
+global.owner = ['94718181282','']
 
-global.premium = ['94767233346','94767233346']
+global.premium = ['94718181282','94718181282']
 
 global.botname = '❊SL SACHIYA MD V1❊'
 
