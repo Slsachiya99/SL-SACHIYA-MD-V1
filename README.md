@@ -2,7 +2,7 @@
 SL SACHIYA MD V1
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) border="0"></a> 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)border="0"></a> 
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Kaveesha2006/DARK-BOT-QR#)
 
